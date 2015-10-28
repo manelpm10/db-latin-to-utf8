@@ -1,0 +1,12 @@
+{
+    "name": "crap/crap",
+    "require": {
+        "joshcam/mysqli-database-class": "^2.4"
+    },
+    "authors": [
+        {
+            "name": "Manel Pérez",
+            "email": "yo@manelperez.com"
+        }
+    ]
+}
